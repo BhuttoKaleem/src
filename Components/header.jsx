@@ -1,7 +1,7 @@
 import React  from "react";
 import { Link } from "react-router-dom";
 
-function header(){
+function Header(){
 
     return(
         <React.Fragment>
@@ -30,4 +30,4 @@ function header(){
     );
 }
 
-export default header;
+export default Header;
